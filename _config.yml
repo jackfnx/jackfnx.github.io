@@ -68,6 +68,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repo:https://github.com/jackfnx/jackfnx.github.io.git
-  branch:master
+  type: git
+  repo: https://github.com/jackfnx/jackfnx.github.io.git
+  branch: master
